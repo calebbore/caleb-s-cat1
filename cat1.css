@@ -1,0 +1,29 @@
+li{display: inline;
+	text-align: center;
+padding-right:20px;
+}
+
+ul{padding-left: 750px}
+
+.row{background-color: violet;
+margin-right: 10px;
+margin-left: 10px;
+border: double;}
+
+.column{background-color: violet;
+float:right;
+width: 33.33%}
+
+
+
+	a:hover{
+			background-color: #FE2EC8;}
+
+			footer{
+			color: orange;}
+
+
+
+
+	
+
